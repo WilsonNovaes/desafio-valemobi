@@ -1,0 +1,28 @@
+body {
+    -webkit-font-smoothing: antialiased !important;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+    background-color: rgb(255,214,153);
+    font: 12px arial, sans-serif;
+}
+
+
+.jumbotron {
+    background: rgb(255, 194, 153);
+    border: 3px dotted rgb(255, 194, 102);
+    padding: 22px;
+}
+
+.erro_valida {
+    color: red;
+    font-weight: bold;
+}
+
+.btn {
+    font-weight: bold;
+    background:rgb(255, 153, 0);
+}
+
+.btn:hover {
+    font-weight: bold;
+    background:rgb(128,77,0);
+}
